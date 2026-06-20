@@ -2,7 +2,7 @@
 
 > My first PCB design — built from scratch in KiCad in a single day!
 
-![3D View](<img width="1307" height="736" alt="Screenshot 2026-06-20 201111" src="https://github.com/user-attachments/assets/0b7a1987-5262-4141-a9f8-f7f9d124ddee" />
+![3D View](threedimensionalview.png
 )
 
 ## Overview
