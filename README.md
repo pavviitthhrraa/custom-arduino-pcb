@@ -2,7 +2,7 @@
 
 > My first PCB design — built from scratch in KiCad in a single day!
 
-![3D View](images/threedimesionalview.png)
+![3D View](threedimesionalview.png)
 
 ## Overview
 A fully custom Arduino Uno-compatible development board 
@@ -18,10 +18,10 @@ A custom development board featuring:
 - **Full Arduino pinout** — Compatible with Arduino shields
 
 ## Schematic
-![Schematic](images/schematic.png)
+![Schematic](schematic.png)
 
 ## PCB Layout
-![PCB Layout](images/pcbdesign.png)
+![PCB Layout](pcbdesign.png)
 
 ## PCB Details
 | Property | Value |
